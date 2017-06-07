@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #-*-coding:utf8-*-
-
+#Version 0.1 20170607
 #Implements a simple GA module
 
 import random
